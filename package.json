@@ -1,5 +1,5 @@
 {
-  "name": "photo-portfolio",
+  "name": "photoportfolio",
   "version": "0.9.0",
   "description": "React Photo Portfolio",
   "main": "index.html",
@@ -82,14 +82,14 @@
       "eslint --fix"
     ]
   },
-  "author": "Dave Feucht",
+  "author": "Kris Dan",
   "license": "ISC",
   "engines": {
     "node": "18"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/davefeucht/photo-portfolio.git"
+    "url": "https://github.com/krisdan1011/photoportfolio.git"
   },
   "packageManager": "yarn@4.0.2"
 }
